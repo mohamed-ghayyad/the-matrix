@@ -6,9 +6,8 @@ This C++ application simulates the iconic Matrix digital rain effect by printing
 
 ## Features
 
-- Simulates the Matrix digital rain effect.
+- Simulates the Matrix.
 - Prints 0s and 1s to the screen in green.
-- Cross-platform compatibility.
 
 ## Requirements
 
