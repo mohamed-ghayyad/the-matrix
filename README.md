@@ -45,4 +45,4 @@ When you run the application, you should see an output similar to this:
 
 ## Screenshot
 
-![The Matrix](the-matrix.png)
+!([the-matrix.png](https://github.com/mohamed-ghayyad/the-matrix/blob/main/the-matrix.PNG?raw=true))
