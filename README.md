@@ -36,10 +36,6 @@ This C++ application simulates the iconic Matrix digital rain effect by printing
 
     ./matrix
 
-## Example Output
-
-When you run the application, you should see an output similar to this:
-
 ## Screenshot
 
 ![the-matrix.png](https://github.com/mohamed-ghayyad/the-matrix/blob/main/the-matrix.gif?raw=true)
