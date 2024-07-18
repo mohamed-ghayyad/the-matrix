@@ -34,10 +34,7 @@ This C++ application simulates the iconic Matrix digital rain effect by printing
 
 **Run the application:**
 
-    ```sh
     ./matrix
-    ```
-
 
 ## Example Output
 
