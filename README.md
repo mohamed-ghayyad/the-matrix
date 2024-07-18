@@ -42,4 +42,4 @@ When you run the application, you should see an output similar to this:
 
 ## Screenshot
 
-![the-matrix.png](https://github.com/mohamed-ghayyad/the-matrix/blob/main/the-matrix2.PNG?raw=true)
+![the-matrix.png](https://github.com/mohamed-ghayyad/the-matrix/blob/main/the-matrix.gif?raw=true)
