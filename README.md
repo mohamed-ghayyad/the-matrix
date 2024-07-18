@@ -23,10 +23,15 @@ This C++ application simulates the iconic Matrix digital rain effect by printing
     cd the-matrix
     ```
 
-2. **Compile the application:**
+2. **Compile the application: windows **
 
     ```sh
-    g++ -o matrix matrix.cpp
+    g++ -o matrix windows-main.cpp
+    ```
+2. **Compile the application: Linux/MacOS **
+
+    ```sh
+    g++ -o matrix linux-macos-main.cpp
     ```
 
 ## Usage
